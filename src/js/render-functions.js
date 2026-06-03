@@ -1,22 +1,26 @@
 import SimpleLightbox from 'simplelightbox';
 import 'simplelightbox/dist/simple-lightbox.min.css';
 
-const loader = document.querySelector('.loader');
-const galleryContainer = document.querySelector('.gallery');
+const refs = {
+  galleryContainer: document.querySelector('.gallery'),
+  loader: document.querySelector('.loader'),
+  loadMoreButton: document.querySelector('.load-more-btn'),
+};
+
 const lightbox = new SimpleLightbox('.gallery a', {
   captionsData: 'alt',
   captionDelay: 250,
 });
 
 export function showLoader() {
-  if (loader) {
-    loader.classList.remove('is-hidden');
+  if (refs.loader) {
+    refs.loader.classList.remove('is-hidden');
   }
 }
 
 export function hideLoader() {
-  if (loader) {
-    loader.classList.add('is-hidden');
+  if (refs.loader) {
+    refs.loader.classList.add('is-hidden');
   }
 }
 
@@ -39,10 +43,18 @@ export function createGallery(images) {
   `
     )
     .join('');
-  galleryContainer.insertAdjacentHTML('beforeend', galleryMarkup);
+  refs.galleryContainer.insertAdjacentHTML('beforeend', galleryMarkup);
   lightbox.refresh();
 }
 
 export function clearGallery() {
-  galleryContainer.innerHTML = '';
+  refs.galleryContainer.innerHTML = '';
+};
+
+export function showLoadMoreButton() {
+  refs.loadMoreButton.classList.remove('is-hidden');
+};
+
+export function hideLoadMoreButton() {
+  refs.loadMoreButton.classList.add('is-hidden');
 };

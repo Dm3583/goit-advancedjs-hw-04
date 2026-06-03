@@ -3,7 +3,7 @@
   display: flex;
   justify-content: center;
   align-items: center;
-  margin: 36px auto 32px;
+  margin: 36px auto 0;
 }
 
 .form input {
@@ -60,6 +60,7 @@
   color: #ffffff;
   border: none;
   background-color: #4e75ff;
+  cursor: pointer;
 }
 
 .form button:hover {

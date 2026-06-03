@@ -8,6 +8,7 @@
 }
 
 ul.gallery {
+  box-sizing: border-box;
   max-width: var(--large-screen-width);
   display: flex;
   flex-wrap: wrap;
@@ -15,7 +16,7 @@ ul.gallery {
   list-style: none;
   padding-left: var(--gallery-padding);
   padding-right: var(--gallery-padding);
-  margin: 0 auto;
+  margin: 32px auto 0;
 }
 
 @media screen and (max-width: 480px) {

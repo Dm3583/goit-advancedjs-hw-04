@@ -4,7 +4,7 @@
   border-radius: 50%;
   position: relative;
   animation: rotate 1s linear infinite;
-  margin: 0 auto;
+  margin: 32px auto 0;
 }
 .loader::before,
 .loader::after {
@@ -42,8 +42,4 @@
   100% {
     clip-path: polygon(50% 50%, 0 0, 100% 0, 100% 100%, 100% 100%, 100% 100%);
   }
-}
-
-.is-hidden {
-  display: none !important; /* Гарантовано ховаємо елемент */
 }

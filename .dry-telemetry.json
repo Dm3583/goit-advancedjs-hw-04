@@ -1,0 +1,1218 @@
+[
+  {
+    "type": "fileSave",
+    "timestamp": "2026-06-03T17:50:49.858Z",
+    "data": {
+      "id": "1780509049858",
+      "timestamp": "2026-06-03T17:50:49.858Z",
+      "type": "fileSave",
+      "filePath": "e:\\Neoversity\\6JSAdvanced\\goit-advancedjs-hw-04\\src\\main.js",
+      "changedLines": [
+        22,
+        23,
+        24
+      ]
+    }
+  },
+  {
+    "type": "fileSave",
+    "timestamp": "2026-06-03T17:51:10.594Z",
+    "data": {
+      "id": "1780509070594",
+      "timestamp": "2026-06-03T17:51:10.594Z",
+      "type": "fileSave",
+      "filePath": "e:\\Neoversity\\6JSAdvanced\\goit-advancedjs-hw-04\\src\\main.js",
+      "changedLines": [
+        24,
+        25,
+        26,
+        27,
+        28,
+        29,
+        30,
+        31,
+        32,
+        33,
+        34,
+        44,
+        45
+      ]
+    }
+  },
+  {
+    "type": "session",
+    "timestamp": "2026-06-03T17:53:46.049Z",
+    "data": {
+      "id": "1780509226049",
+      "project": "goit-advancedjs-hw-04",
+      "start": "2026-06-03T17:53:46.049Z",
+      "end": "2026-06-03T17:56:28.625Z"
+    }
+  },
+  {
+    "type": "session",
+    "timestamp": "2026-06-03T17:56:28.625Z",
+    "data": {
+      "id": "1780509226049",
+      "project": "goit-advancedjs-hw-04",
+      "start": "2026-06-03T17:53:46.049Z",
+      "end": "2026-06-03T17:56:28.625Z"
+    }
+  },
+  {
+    "type": "session",
+    "timestamp": "2026-06-03T18:02:34.160Z",
+    "data": {
+      "id": "1780509754160",
+      "project": "goit-advancedjs-hw-04",
+      "start": "2026-06-03T18:02:34.160Z",
+      "end": "2026-06-03T18:16:10.618Z"
+    }
+  },
+  {
+    "type": "fileSave",
+    "timestamp": "2026-06-03T18:02:36.112Z",
+    "data": {
+      "id": "1780509756112",
+      "timestamp": "2026-06-03T18:02:36.112Z",
+      "type": "fileSave",
+      "filePath": "e:\\Neoversity\\6JSAdvanced\\goit-advancedjs-hw-04\\src\\main.js",
+      "changedLines": [
+        15,
+        16,
+        54
+      ]
+    }
+  },
+  {
+    "type": "fileSave",
+    "timestamp": "2026-06-03T18:03:50.133Z",
+    "data": {
+      "id": "1780509830133",
+      "timestamp": "2026-06-03T18:03:50.133Z",
+      "type": "fileSave",
+      "filePath": "e:\\Neoversity\\6JSAdvanced\\goit-advancedjs-hw-04\\src\\index.html",
+      "changedLines": [
+        30
+      ]
+    }
+  },
+  {
+    "type": "fileSave",
+    "timestamp": "2026-06-03T18:07:17.751Z",
+    "data": {
+      "id": "1780510037751",
+      "timestamp": "2026-06-03T18:07:17.751Z",
+      "type": "fileSave",
+      "filePath": "e:\\Neoversity\\6JSAdvanced\\goit-advancedjs-hw-04\\src\\main.js",
+      "changedLines": [
+        13,
+        55,
+        57,
+        65,
+        66,
+        67,
+        73,
+        74
+      ]
+    }
+  },
+  {
+    "type": "fileSave",
+    "timestamp": "2026-06-03T18:08:28.367Z",
+    "data": {
+      "id": "1780510108367",
+      "timestamp": "2026-06-03T18:08:28.367Z",
+      "type": "fileSave",
+      "filePath": "e:\\Neoversity\\6JSAdvanced\\goit-advancedjs-hw-04\\src\\css\\loader.css",
+      "changedLines": [
+        44,
+        45,
+        46,
+        47
+      ]
+    }
+  },
+  {
+    "type": "fileSave",
+    "timestamp": "2026-06-03T18:08:41.609Z",
+    "data": {
+      "id": "1780510121609",
+      "timestamp": "2026-06-03T18:08:41.609Z",
+      "type": "fileSave",
+      "filePath": "e:\\Neoversity\\6JSAdvanced\\goit-advancedjs-hw-04\\src\\css\\base.css",
+      "changedLines": [
+        42,
+        43,
+        44
+      ]
+    }
+  },
+  {
+    "type": "fileSave",
+    "timestamp": "2026-06-03T18:09:32.330Z",
+    "data": {
+      "id": "1780510172330",
+      "timestamp": "2026-06-03T18:09:32.330Z",
+      "type": "fileSave",
+      "filePath": "e:\\Neoversity\\6JSAdvanced\\goit-advancedjs-hw-04\\src\\index.html",
+      "changedLines": [
+        30
+      ]
+    }
+  },
+  {
+    "type": "fileSave",
+    "timestamp": "2026-06-03T18:09:35.187Z",
+    "data": {
+      "id": "1780510175187",
+      "timestamp": "2026-06-03T18:09:35.187Z",
+      "type": "fileSave",
+      "filePath": "e:\\Neoversity\\6JSAdvanced\\goit-advancedjs-hw-04\\src\\index.html",
+      "changedLines": [
+        30
+      ]
+    }
+  },
+  {
+    "type": "fileSave",
+    "timestamp": "2026-06-03T18:10:20.300Z",
+    "data": {
+      "id": "1780510220300",
+      "timestamp": "2026-06-03T18:10:20.300Z",
+      "type": "fileSave",
+      "filePath": "e:\\Neoversity\\6JSAdvanced\\goit-advancedjs-hw-04\\src\\css\\styles.css",
+      "changedLines": [
+        21,
+        22
+      ]
+    }
+  },
+  {
+    "type": "fileSave",
+    "timestamp": "2026-06-03T18:11:10.726Z",
+    "data": {
+      "id": "1780510270726",
+      "timestamp": "2026-06-03T18:11:10.726Z",
+      "type": "fileSave",
+      "filePath": "e:\\Neoversity\\6JSAdvanced\\goit-advancedjs-hw-04\\src\\css\\load-more.css",
+      "changedLines": [
+        0,
+        1,
+        2,
+        4,
+        15,
+        20
+      ]
+    }
+  },
+  {
+    "type": "session",
+    "timestamp": "2026-06-03T18:16:10.618Z",
+    "data": {
+      "id": "1780509754160",
+      "project": "goit-advancedjs-hw-04",
+      "start": "2026-06-03T18:02:34.160Z",
+      "end": "2026-06-03T18:16:10.618Z"
+    }
+  },
+  {
+    "type": "session",
+    "timestamp": "2026-06-03T18:16:54.942Z",
+    "data": {
+      "id": "1780510614942",
+      "project": "goit-advancedjs-hw-04",
+      "start": "2026-06-03T18:16:54.942Z",
+      "end": "2026-06-03T18:17:09.095Z"
+    }
+  },
+  {
+    "type": "fileSave",
+    "timestamp": "2026-06-03T18:16:55.075Z",
+    "data": {
+      "id": "1780510615075",
+      "timestamp": "2026-06-03T18:16:55.075Z",
+      "type": "fileSave",
+      "filePath": "e:\\Neoversity\\6JSAdvanced\\goit-advancedjs-hw-04\\src\\css\\load-more.css",
+      "changedLines": [
+        3,
+        4
+      ]
+    }
+  },
+  {
+    "type": "session",
+    "timestamp": "2026-06-03T18:17:09.095Z",
+    "data": {
+      "id": "1780510614942",
+      "project": "goit-advancedjs-hw-04",
+      "start": "2026-06-03T18:16:54.942Z",
+      "end": "2026-06-03T18:17:09.095Z"
+    }
+  },
+  {
+    "type": "fileSave",
+    "timestamp": "2026-06-03T18:17:38.052Z",
+    "data": {
+      "id": "1780510658052",
+      "timestamp": "2026-06-03T18:17:38.052Z",
+      "type": "fileSave",
+      "filePath": "e:\\Neoversity\\6JSAdvanced\\goit-advancedjs-hw-04\\src\\index.html",
+      "changedLines": [
+        30,
+        31
+      ]
+    }
+  },
+  {
+    "type": "session",
+    "timestamp": "2026-06-03T18:18:34.953Z",
+    "data": {
+      "id": "1780510714953",
+      "project": "goit-advancedjs-hw-04",
+      "start": "2026-06-03T18:18:34.953Z",
+      "end": "2026-06-03T18:36:22.130Z"
+    }
+  },
+  {
+    "type": "fileSave",
+    "timestamp": "2026-06-03T18:19:12.914Z",
+    "data": {
+      "id": "1780510752914",
+      "timestamp": "2026-06-03T18:19:12.914Z",
+      "type": "fileSave",
+      "filePath": "e:\\Neoversity\\6JSAdvanced\\goit-advancedjs-hw-04\\src\\css\\container.css",
+      "changedLines": [
+        1,
+        2,
+        3,
+        4
+      ]
+    }
+  },
+  {
+    "type": "fileSave",
+    "timestamp": "2026-06-03T18:19:53.170Z",
+    "data": {
+      "id": "1780510793170",
+      "timestamp": "2026-06-03T18:19:53.170Z",
+      "type": "fileSave",
+      "filePath": "e:\\Neoversity\\6JSAdvanced\\goit-advancedjs-hw-04\\src\\index.html",
+      "changedLines": [
+        30,
+        32
+      ]
+    }
+  },
+  {
+    "type": "fileSave",
+    "timestamp": "2026-06-03T18:19:55.189Z",
+    "data": {
+      "id": "1780510795189",
+      "timestamp": "2026-06-03T18:19:55.189Z",
+      "type": "fileSave",
+      "filePath": "e:\\Neoversity\\6JSAdvanced\\goit-advancedjs-hw-04\\src\\index.html",
+      "changedLines": [
+        31
+      ]
+    }
+  },
+  {
+    "type": "fileSave",
+    "timestamp": "2026-06-03T18:20:45.112Z",
+    "data": {
+      "id": "1780510845112",
+      "timestamp": "2026-06-03T18:20:45.112Z",
+      "type": "fileSave",
+      "filePath": "e:\\Neoversity\\6JSAdvanced\\goit-advancedjs-hw-04\\src\\css\\load-more.css",
+      "changedLines": [
+        16,
+        17
+      ]
+    }
+  },
+  {
+    "type": "fileSave",
+    "timestamp": "2026-06-03T18:20:49.618Z",
+    "data": {
+      "id": "1780510849618",
+      "timestamp": "2026-06-03T18:20:49.618Z",
+      "type": "fileSave",
+      "filePath": "e:\\Neoversity\\6JSAdvanced\\goit-advancedjs-hw-04\\src\\css\\container.css",
+      "changedLines": [
+        2,
+        4
+      ]
+    }
+  },
+  {
+    "type": "fileSave",
+    "timestamp": "2026-06-03T18:21:09.295Z",
+    "data": {
+      "id": "1780510869294",
+      "timestamp": "2026-06-03T18:21:09.294Z",
+      "type": "fileSave",
+      "filePath": "e:\\Neoversity\\6JSAdvanced\\goit-advancedjs-hw-04\\src\\css\\load-more.css",
+      "changedLines": [
+        6,
+        7
+      ]
+    }
+  },
+  {
+    "type": "fileSave",
+    "timestamp": "2026-06-03T18:21:45.943Z",
+    "data": {
+      "id": "1780510905943",
+      "timestamp": "2026-06-03T18:21:45.943Z",
+      "type": "fileSave",
+      "filePath": "e:\\Neoversity\\6JSAdvanced\\goit-advancedjs-hw-04\\src\\css\\load-more.css",
+      "changedLines": [
+        18,
+        19
+      ]
+    }
+  },
+  {
+    "type": "fileSave",
+    "timestamp": "2026-06-03T18:22:26.299Z",
+    "data": {
+      "id": "1780510946299",
+      "timestamp": "2026-06-03T18:22:26.299Z",
+      "type": "fileSave",
+      "filePath": "e:\\Neoversity\\6JSAdvanced\\goit-advancedjs-hw-04\\src\\css\\load-more.css",
+      "changedLines": [
+        7,
+        18,
+        19
+      ]
+    }
+  },
+  {
+    "type": "fileSave",
+    "timestamp": "2026-06-03T18:22:39.359Z",
+    "data": {
+      "id": "1780510959359",
+      "timestamp": "2026-06-03T18:22:39.359Z",
+      "type": "fileSave",
+      "filePath": "e:\\Neoversity\\6JSAdvanced\\goit-advancedjs-hw-04\\src\\css\\load-more.css",
+      "changedLines": [
+        0
+      ]
+    }
+  },
+  {
+    "type": "fileSave",
+    "timestamp": "2026-06-03T18:22:44.859Z",
+    "data": {
+      "id": "1780510964859",
+      "timestamp": "2026-06-03T18:22:44.859Z",
+      "type": "fileSave",
+      "filePath": "e:\\Neoversity\\6JSAdvanced\\goit-advancedjs-hw-04\\src\\css\\container.css",
+      "changedLines": [
+        1,
+        2
+      ]
+    }
+  },
+  {
+    "type": "fileSave",
+    "timestamp": "2026-06-03T18:25:08.405Z",
+    "data": {
+      "id": "1780511108405",
+      "timestamp": "2026-06-03T18:25:08.405Z",
+      "type": "fileSave",
+      "filePath": "e:\\Neoversity\\6JSAdvanced\\goit-advancedjs-hw-04\\src\\css\\form.css",
+      "changedLines": [
+        61,
+        62
+      ]
+    }
+  },
+  {
+    "type": "fileSave",
+    "timestamp": "2026-06-03T18:25:30.909Z",
+    "data": {
+      "id": "1780511130909",
+      "timestamp": "2026-06-03T18:25:30.909Z",
+      "type": "fileSave",
+      "filePath": "e:\\Neoversity\\6JSAdvanced\\goit-advancedjs-hw-04\\src\\index.html",
+      "changedLines": [
+        31
+      ]
+    }
+  },
+  {
+    "type": "fileSave",
+    "timestamp": "2026-06-03T18:33:08.960Z",
+    "data": {
+      "id": "1780511588960",
+      "timestamp": "2026-06-03T18:33:08.960Z",
+      "type": "fileSave",
+      "filePath": "e:\\Neoversity\\6JSAdvanced\\goit-advancedjs-hw-04\\src\\js\\render-functions.js",
+      "changedLines": [
+        2,
+        3,
+        4,
+        8,
+        15,
+        16,
+        21,
+        22,
+        45
+      ]
+    }
+  },
+  {
+    "type": "fileSave",
+    "timestamp": "2026-06-03T18:34:51.525Z",
+    "data": {
+      "id": "1780511691525",
+      "timestamp": "2026-06-03T18:34:51.525Z",
+      "type": "fileSave",
+      "filePath": "e:\\Neoversity\\6JSAdvanced\\goit-advancedjs-hw-04\\src\\js\\render-functions.js",
+      "changedLines": [
+        50,
+        53,
+        57
+      ]
+    }
+  },
+  {
+    "type": "fileSave",
+    "timestamp": "2026-06-03T18:35:15.944Z",
+    "data": {
+      "id": "1780511715944",
+      "timestamp": "2026-06-03T18:35:15.944Z",
+      "type": "fileSave",
+      "filePath": "e:\\Neoversity\\6JSAdvanced\\goit-advancedjs-hw-04\\src\\main.js",
+      "changedLines": [
+        52,
+        53,
+        54,
+        55
+      ]
+    }
+  },
+  {
+    "type": "session",
+    "timestamp": "2026-06-03T18:36:22.130Z",
+    "data": {
+      "id": "1780510714953",
+      "project": "goit-advancedjs-hw-04",
+      "start": "2026-06-03T18:18:34.953Z",
+      "end": "2026-06-03T18:36:22.130Z"
+    }
+  },
+  {
+    "type": "session",
+    "timestamp": "2026-06-03T18:38:17.667Z",
+    "data": {
+      "id": "1780511897667",
+      "project": "goit-advancedjs-hw-04",
+      "start": "2026-06-03T18:38:17.667Z",
+      "end": "2026-06-03T18:44:30.692Z"
+    }
+  },
+  {
+    "type": "fileSave",
+    "timestamp": "2026-06-03T18:39:14.548Z",
+    "data": {
+      "id": "1780511954548",
+      "timestamp": "2026-06-03T18:39:14.548Z",
+      "type": "fileSave",
+      "filePath": "e:\\Neoversity\\6JSAdvanced\\goit-advancedjs-hw-04\\src\\index.html",
+      "changedLines": [
+        28,
+        29
+      ]
+    }
+  },
+  {
+    "type": "session",
+    "timestamp": "2026-06-03T18:44:30.692Z",
+    "data": {
+      "id": "1780511897667",
+      "project": "goit-advancedjs-hw-04",
+      "start": "2026-06-03T18:38:17.667Z",
+      "end": "2026-06-03T18:44:30.692Z"
+    }
+  },
+  {
+    "type": "session",
+    "timestamp": "2026-06-03T18:53:57.010Z",
+    "data": {
+      "id": "1780512837010",
+      "project": "goit-advancedjs-hw-04",
+      "start": "2026-06-03T18:53:57.010Z",
+      "end": "2026-06-03T19:11:45.907Z"
+    }
+  },
+  {
+    "type": "fileSave",
+    "timestamp": "2026-06-03T18:56:49.631Z",
+    "data": {
+      "id": "1780513009631",
+      "timestamp": "2026-06-03T18:56:49.631Z",
+      "type": "fileSave",
+      "filePath": "e:\\Neoversity\\6JSAdvanced\\goit-advancedjs-hw-04\\src\\js\\pixabay-api.js",
+      "changedLines": [
+        3,
+        4,
+        14
+      ]
+    }
+  },
+  {
+    "type": "fileSave",
+    "timestamp": "2026-06-03T18:57:22.971Z",
+    "data": {
+      "id": "1780513042971",
+      "timestamp": "2026-06-03T18:57:22.971Z",
+      "type": "fileSave",
+      "filePath": "e:\\Neoversity\\6JSAdvanced\\goit-advancedjs-hw-04\\src\\main.js",
+      "changedLines": [
+        3
+      ]
+    }
+  },
+  {
+    "type": "fileSave",
+    "timestamp": "2026-06-03T18:59:37.249Z",
+    "data": {
+      "id": "1780513177249",
+      "timestamp": "2026-06-03T18:59:37.249Z",
+      "type": "fileSave",
+      "filePath": "e:\\Neoversity\\6JSAdvanced\\goit-advancedjs-hw-04\\src\\main.js",
+      "changedLines": [
+        34,
+        35,
+        36,
+        37,
+        38,
+        39,
+        70,
+        71,
+        72
+      ]
+    }
+  },
+  {
+    "type": "fileSave",
+    "timestamp": "2026-06-03T19:01:47.048Z",
+    "data": {
+      "id": "1780513307048",
+      "timestamp": "2026-06-03T19:01:47.048Z",
+      "type": "fileSave",
+      "filePath": "e:\\Neoversity\\6JSAdvanced\\goit-advancedjs-hw-04\\src\\main.js",
+      "changedLines": [
+        8,
+        20,
+        21,
+        40,
+        41,
+        62,
+        63
+      ]
+    }
+  },
+  {
+    "type": "fileSave",
+    "timestamp": "2026-06-03T19:02:48.501Z",
+    "data": {
+      "id": "1780513368501",
+      "timestamp": "2026-06-03T19:02:48.501Z",
+      "type": "fileSave",
+      "filePath": "e:\\Neoversity\\6JSAdvanced\\goit-advancedjs-hw-04\\src\\main.js",
+      "changedLines": [
+        43
+      ]
+    }
+  },
+  {
+    "type": "fileSave",
+    "timestamp": "2026-06-03T19:08:24.744Z",
+    "data": {
+      "id": "1780513704744",
+      "timestamp": "2026-06-03T19:08:24.744Z",
+      "type": "fileSave",
+      "filePath": "e:\\Neoversity\\6JSAdvanced\\goit-advancedjs-hw-04\\src\\css\\gallery.css",
+      "changedLines": [
+        17
+      ]
+    }
+  },
+  {
+    "type": "fileSave",
+    "timestamp": "2026-06-03T19:08:50.823Z",
+    "data": {
+      "id": "1780513730823",
+      "timestamp": "2026-06-03T19:08:50.823Z",
+      "type": "fileSave",
+      "filePath": "e:\\Neoversity\\6JSAdvanced\\goit-advancedjs-hw-04\\src\\css\\form.css",
+      "changedLines": [
+        5
+      ]
+    }
+  },
+  {
+    "type": "fileSave",
+    "timestamp": "2026-06-03T19:09:21.412Z",
+    "data": {
+      "id": "1780513761412",
+      "timestamp": "2026-06-03T19:09:21.412Z",
+      "type": "fileSave",
+      "filePath": "e:\\Neoversity\\6JSAdvanced\\goit-advancedjs-hw-04\\src\\css\\loader.css",
+      "changedLines": [
+        6
+      ]
+    }
+  },
+  {
+    "type": "fileSave",
+    "timestamp": "2026-06-03T19:10:57.645Z",
+    "data": {
+      "id": "1780513857645",
+      "timestamp": "2026-06-03T19:10:57.645Z",
+      "type": "fileSave",
+      "filePath": "e:\\Neoversity\\6JSAdvanced\\goit-advancedjs-hw-04\\src\\css\\container.css",
+      "changedLines": [
+        4
+      ]
+    }
+  },
+  {
+    "type": "fileSave",
+    "timestamp": "2026-06-03T19:11:05.873Z",
+    "data": {
+      "id": "1780513865873",
+      "timestamp": "2026-06-03T19:11:05.873Z",
+      "type": "fileSave",
+      "filePath": "e:\\Neoversity\\6JSAdvanced\\goit-advancedjs-hw-04\\src\\css\\container.css",
+      "changedLines": [
+        5
+      ]
+    }
+  },
+  {
+    "type": "session",
+    "timestamp": "2026-06-03T19:11:45.907Z",
+    "data": {
+      "id": "1780512837010",
+      "project": "goit-advancedjs-hw-04",
+      "start": "2026-06-03T18:53:57.010Z",
+      "end": "2026-06-03T19:11:45.907Z"
+    }
+  },
+  {
+    "type": "fileSave",
+    "timestamp": "2026-06-03T19:20:24.117Z",
+    "data": {
+      "id": "1780514424117",
+      "timestamp": "2026-06-03T19:20:24.117Z",
+      "type": "fileSave",
+      "filePath": "e:\\Neoversity\\6JSAdvanced\\goit-advancedjs-hw-04\\src\\main.js",
+      "changedLines": [
+        65
+      ]
+    }
+  },
+  {
+    "type": "fileSave",
+    "timestamp": "2026-06-03T19:24:43.063Z",
+    "data": {
+      "id": "1780514683063",
+      "timestamp": "2026-06-03T19:24:43.063Z",
+      "type": "fileSave",
+      "filePath": "e:\\Neoversity\\6JSAdvanced\\goit-advancedjs-hw-04\\src\\main.js",
+      "changedLines": [
+        80,
+        82,
+        83
+      ]
+    }
+  },
+  {
+    "type": "fileSave",
+    "timestamp": "2026-06-03T19:25:05.211Z",
+    "data": {
+      "id": "1780514705211",
+      "timestamp": "2026-06-03T19:25:05.211Z",
+      "type": "fileSave",
+      "filePath": "e:\\Neoversity\\6JSAdvanced\\goit-advancedjs-hw-04\\src\\main.js",
+      "changedLines": [
+        83
+      ]
+    }
+  },
+  {
+    "type": "fileSave",
+    "timestamp": "2026-06-03T19:26:18.693Z",
+    "data": {
+      "id": "1780514778693",
+      "timestamp": "2026-06-03T19:26:18.693Z",
+      "type": "fileSave",
+      "filePath": "e:\\Neoversity\\6JSAdvanced\\goit-advancedjs-hw-04\\src\\main.js",
+      "changedLines": [
+        84,
+        86
+      ]
+    }
+  },
+  {
+    "type": "fileSave",
+    "timestamp": "2026-06-03T19:27:23.838Z",
+    "data": {
+      "id": "1780514843838",
+      "timestamp": "2026-06-03T19:27:23.838Z",
+      "type": "fileSave",
+      "filePath": "e:\\Neoversity\\6JSAdvanced\\goit-advancedjs-hw-04\\src\\main.js",
+      "changedLines": [
+        86
+      ]
+    }
+  },
+  {
+    "type": "fileSave",
+    "timestamp": "2026-06-03T19:27:54.848Z",
+    "data": {
+      "id": "1780514874848",
+      "timestamp": "2026-06-03T19:27:54.848Z",
+      "type": "fileSave",
+      "filePath": "e:\\Neoversity\\6JSAdvanced\\goit-advancedjs-hw-04\\src\\main.js",
+      "changedLines": [
+        86
+      ]
+    }
+  },
+  {
+    "type": "fileSave",
+    "timestamp": "2026-06-03T19:29:15.891Z",
+    "data": {
+      "id": "1780514955891",
+      "timestamp": "2026-06-03T19:29:15.891Z",
+      "type": "fileSave",
+      "filePath": "e:\\Neoversity\\6JSAdvanced\\goit-advancedjs-hw-04\\src\\main.js",
+      "changedLines": [
+        84,
+        86
+      ]
+    }
+  },
+  {
+    "type": "fileSave",
+    "timestamp": "2026-06-03T19:30:26.617Z",
+    "data": {
+      "id": "1780515026617",
+      "timestamp": "2026-06-03T19:30:26.617Z",
+      "type": "fileSave",
+      "filePath": "e:\\Neoversity\\6JSAdvanced\\goit-advancedjs-hw-04\\src\\main.js",
+      "changedLines": [
+        84,
+        86
+      ]
+    }
+  },
+  {
+    "type": "fileSave",
+    "timestamp": "2026-06-03T19:30:57.356Z",
+    "data": {
+      "id": "1780515057356",
+      "timestamp": "2026-06-03T19:30:57.356Z",
+      "type": "fileSave",
+      "filePath": "e:\\Neoversity\\6JSAdvanced\\goit-advancedjs-hw-04\\src\\main.js",
+      "changedLines": [
+        83,
+        84,
+        85,
+        86,
+        87,
+        88
+      ]
+    }
+  },
+  {
+    "type": "fileSave",
+    "timestamp": "2026-06-03T19:31:19.552Z",
+    "data": {
+      "id": "1780515079552",
+      "timestamp": "2026-06-03T19:31:19.552Z",
+      "type": "fileSave",
+      "filePath": "e:\\Neoversity\\6JSAdvanced\\goit-advancedjs-hw-04\\src\\css\\container.css",
+      "changedLines": [
+        1,
+        2
+      ]
+    }
+  },
+  {
+    "type": "fileSave",
+    "timestamp": "2026-06-03T19:32:11.640Z",
+    "data": {
+      "id": "1780515131640",
+      "timestamp": "2026-06-03T19:32:11.640Z",
+      "type": "fileSave",
+      "filePath": "e:\\Neoversity\\6JSAdvanced\\goit-advancedjs-hw-04\\src\\css\\load-more.css",
+      "changedLines": [
+        0,
+        1
+      ]
+    }
+  },
+  {
+    "type": "fileSave",
+    "timestamp": "2026-06-03T19:33:17.913Z",
+    "data": {
+      "id": "1780515197913",
+      "timestamp": "2026-06-03T19:33:17.913Z",
+      "type": "fileSave",
+      "filePath": "e:\\Neoversity\\6JSAdvanced\\goit-advancedjs-hw-04\\src\\css\\load-more.css",
+      "changedLines": [
+        0,
+        1
+      ]
+    }
+  },
+  {
+    "type": "fileSave",
+    "timestamp": "2026-06-03T19:33:22.528Z",
+    "data": {
+      "id": "1780515202528",
+      "timestamp": "2026-06-03T19:33:22.528Z",
+      "type": "fileSave",
+      "filePath": "e:\\Neoversity\\6JSAdvanced\\goit-advancedjs-hw-04\\src\\css\\gallery.css",
+      "changedLines": [
+        9,
+        10
+      ]
+    }
+  },
+  {
+    "type": "fileSave",
+    "timestamp": "2026-06-03T19:34:30.569Z",
+    "data": {
+      "id": "1780515270569",
+      "timestamp": "2026-06-03T19:34:30.569Z",
+      "type": "fileSave",
+      "filePath": "e:\\Neoversity\\6JSAdvanced\\goit-advancedjs-hw-04\\src\\main.js",
+      "changedLines": [
+        83,
+        84,
+        85,
+        86,
+        87,
+        88
+      ]
+    }
+  },
+  {
+    "type": "session",
+    "timestamp": "2026-06-03T19:34:52.428Z",
+    "data": {
+      "id": "1780515292428",
+      "project": "goit-advancedjs-hw-04",
+      "start": "2026-06-03T19:34:52.428Z",
+      "end": "2026-06-03T19:34:52.428Z"
+    }
+  },
+  {
+    "type": "fileSave",
+    "timestamp": "2026-06-03T19:34:57.276Z",
+    "data": {
+      "id": "1780515297276",
+      "timestamp": "2026-06-03T19:34:57.276Z",
+      "type": "fileSave",
+      "filePath": "e:\\Neoversity\\6JSAdvanced\\goit-advancedjs-hw-04\\src\\main.js",
+      "changedLines": [
+        86
+      ]
+    }
+  },
+  {
+    "type": "fileSave",
+    "timestamp": "2026-06-03T19:38:21.077Z",
+    "data": {
+      "id": "1780515501077",
+      "timestamp": "2026-06-03T19:38:21.077Z",
+      "type": "fileSave",
+      "filePath": "e:\\Neoversity\\6JSAdvanced\\goit-advancedjs-hw-04\\src\\main.js",
+      "changedLines": [
+        84,
+        86
+      ]
+    }
+  },
+  {
+    "type": "fileSave",
+    "timestamp": "2026-06-03T19:39:12.665Z",
+    "data": {
+      "id": "1780515552665",
+      "timestamp": "2026-06-03T19:39:12.665Z",
+      "type": "fileSave",
+      "filePath": "e:\\Neoversity\\6JSAdvanced\\goit-advancedjs-hw-04\\src\\main.js",
+      "changedLines": [
+        83
+      ]
+    }
+  },
+  {
+    "type": "fileSave",
+    "timestamp": "2026-06-03T19:45:20.293Z",
+    "data": {
+      "id": "1780515920293",
+      "timestamp": "2026-06-03T19:45:20.293Z",
+      "type": "fileSave",
+      "filePath": "e:\\Neoversity\\6JSAdvanced\\goit-advancedjs-hw-04\\src\\main.js",
+      "changedLines": [
+        55,
+        56,
+        60,
+        70,
+        71
+      ]
+    }
+  },
+  {
+    "type": "session",
+    "timestamp": "2026-06-03T23:11:40.779Z",
+    "data": {
+      "id": "1780528300779",
+      "project": "goit-advancedjs-hw-04",
+      "start": "2026-06-03T23:11:40.779Z",
+      "end": "2026-06-03T23:36:43.651Z"
+    }
+  },
+  {
+    "type": "fileSave",
+    "timestamp": "2026-06-03T23:14:18.395Z",
+    "data": {
+      "id": "1780528458395",
+      "timestamp": "2026-06-03T23:14:18.395Z",
+      "type": "fileSave",
+      "filePath": "e:\\Neoversity\\6JSAdvanced\\goit-advancedjs-hw-04\\src\\main.js",
+      "changedLines": [
+        38,
+        80,
+        81,
+        82,
+        83,
+        84,
+        88,
+        89,
+        92,
+        93,
+        94
+      ]
+    }
+  },
+  {
+    "type": "fileSave",
+    "timestamp": "2026-06-03T23:14:45.675Z",
+    "data": {
+      "id": "1780528485675",
+      "timestamp": "2026-06-03T23:14:45.675Z",
+      "type": "fileSave",
+      "filePath": "e:\\Neoversity\\6JSAdvanced\\goit-advancedjs-hw-04\\src\\main.js",
+      "changedLines": [
+        94,
+        102
+      ]
+    }
+  },
+  {
+    "type": "fileSave",
+    "timestamp": "2026-06-03T23:14:49.287Z",
+    "data": {
+      "id": "1780528489287",
+      "timestamp": "2026-06-03T23:14:49.287Z",
+      "type": "fileSave",
+      "filePath": "e:\\Neoversity\\6JSAdvanced\\goit-advancedjs-hw-04\\src\\main.js",
+      "changedLines": [
+        81,
+        83,
+        84,
+        86,
+        87,
+        88,
+        90,
+        91,
+        92,
+        93
+      ]
+    }
+  },
+  {
+    "type": "fileSave",
+    "timestamp": "2026-06-03T23:19:45.997Z",
+    "data": {
+      "id": "1780528785997",
+      "timestamp": "2026-06-03T23:19:45.997Z",
+      "type": "fileSave",
+      "filePath": "e:\\Neoversity\\6JSAdvanced\\goit-advancedjs-hw-04\\src\\main.js",
+      "changedLines": [
+        46,
+        47,
+        82,
+        94
+      ]
+    }
+  },
+  {
+    "type": "fileSave",
+    "timestamp": "2026-06-03T23:20:10.731Z",
+    "data": {
+      "id": "1780528810731",
+      "timestamp": "2026-06-03T23:20:10.731Z",
+      "type": "fileSave",
+      "filePath": "e:\\Neoversity\\6JSAdvanced\\goit-advancedjs-hw-04\\src\\main.js",
+      "changedLines": [
+        82,
+        84,
+        85,
+        86,
+        87,
+        88,
+        90,
+        91,
+        92,
+        93,
+        94
+      ]
+    }
+  },
+  {
+    "type": "fileSave",
+    "timestamp": "2026-06-03T23:20:30.294Z",
+    "data": {
+      "id": "1780528830294",
+      "timestamp": "2026-06-03T23:20:30.294Z",
+      "type": "fileSave",
+      "filePath": "e:\\Neoversity\\6JSAdvanced\\goit-advancedjs-hw-04\\src\\main.js",
+      "changedLines": [
+        86,
+        87,
+        88,
+        90,
+        91,
+        92,
+        93,
+        94
+      ]
+    }
+  },
+  {
+    "type": "fileSave",
+    "timestamp": "2026-06-03T23:34:41.238Z",
+    "data": {
+      "id": "1780529681238",
+      "timestamp": "2026-06-03T23:34:41.238Z",
+      "type": "fileSave",
+      "filePath": "e:\\Neoversity\\6JSAdvanced\\goit-advancedjs-hw-04\\src\\css\\base.css",
+      "changedLines": [
+        27,
+        28,
+        29
+      ]
+    }
+  },
+  {
+    "type": "fileSave",
+    "timestamp": "2026-06-03T23:35:45.650Z",
+    "data": {
+      "id": "1780529745650",
+      "timestamp": "2026-06-03T23:35:45.650Z",
+      "type": "fileSave",
+      "filePath": "e:\\Neoversity\\6JSAdvanced\\goit-advancedjs-hw-04\\src\\css\\base.css",
+      "changedLines": [
+        38,
+        39
+      ]
+    }
+  },
+  {
+    "type": "fileSave",
+    "timestamp": "2026-06-03T23:36:23.071Z",
+    "data": {
+      "id": "1780529783070",
+      "timestamp": "2026-06-03T23:36:23.070Z",
+      "type": "fileSave",
+      "filePath": "e:\\Neoversity\\6JSAdvanced\\goit-advancedjs-hw-04\\src\\css\\base.css",
+      "changedLines": [
+        28,
+        39,
+        42,
+        43
+      ]
+    }
+  },
+  {
+    "type": "session",
+    "timestamp": "2026-06-03T23:36:43.651Z",
+    "data": {
+      "id": "1780528300779",
+      "project": "goit-advancedjs-hw-04",
+      "start": "2026-06-03T23:11:40.779Z",
+      "end": "2026-06-03T23:36:43.651Z"
+    }
+  },
+  {
+    "type": "fileSave",
+    "timestamp": "2026-06-03T23:36:50.780Z",
+    "data": {
+      "id": "1780529810780",
+      "timestamp": "2026-06-03T23:36:50.780Z",
+      "type": "fileSave",
+      "filePath": "e:\\Neoversity\\6JSAdvanced\\goit-advancedjs-hw-04\\src\\css\\base.css",
+      "changedLines": [
+        34,
+        35,
+        39,
+        40
+      ]
+    }
+  },
+  {
+    "type": "fileSave",
+    "timestamp": "2026-06-03T23:37:03.916Z",
+    "data": {
+      "id": "1780529823916",
+      "timestamp": "2026-06-03T23:37:03.916Z",
+      "type": "fileSave",
+      "filePath": "e:\\Neoversity\\6JSAdvanced\\goit-advancedjs-hw-04\\src\\css\\base.css",
+      "changedLines": [
+        34,
+        35,
+        40,
+        41
+      ]
+    }
+  },
+  {
+    "type": "fileSave",
+    "timestamp": "2026-06-03T23:38:07.505Z",
+    "data": {
+      "id": "1780529887505",
+      "timestamp": "2026-06-03T23:38:07.505Z",
+      "type": "fileSave",
+      "filePath": "e:\\Neoversity\\6JSAdvanced\\goit-advancedjs-hw-04\\src\\css\\base.css",
+      "changedLines": [
+        32,
+        35
+      ]
+    }
+  },
+  {
+    "type": "fileSave",
+    "timestamp": "2026-06-03T23:38:46.507Z",
+    "data": {
+      "id": "1780529926507",
+      "timestamp": "2026-06-03T23:38:46.507Z",
+      "type": "fileSave",
+      "filePath": "e:\\Neoversity\\6JSAdvanced\\goit-advancedjs-hw-04\\src\\css\\base.css",
+      "changedLines": [
+        34,
+        35
+      ]
+    }
+  }
+]
